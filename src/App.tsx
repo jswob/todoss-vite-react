@@ -1,9 +1,7 @@
-import './App.css'
+import './App.css';
 
 function App() {
-  return (
-    <div className="App">init state</div>
-  )
+  return <div className="App">init state</div>;
 }
 
-export default App
+export default App;
